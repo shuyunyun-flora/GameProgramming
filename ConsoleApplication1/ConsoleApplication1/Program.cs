@@ -12,7 +12,9 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine();
-            
+
+            Console.WriteLine("Hello, World again!");
+            Console.WriteLine("Hello, World again!");
             Console.WriteLine("Hello, World again!");
         }
     }
